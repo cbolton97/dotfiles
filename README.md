@@ -79,12 +79,11 @@ When setting up a new Mac, you may want to install some common [Homebrew](http:/
 ./brew.sh
 ```
 
-## Feedback
+## Authors
+| [![twitter/cbolton97](https://pbs.twimg.com/profile_images/593301815757709312/hl0xclOA.jpg)](http://twitter.com/cbolton97 "Follow @cbolton97 on Twitter") |
+|---|
+| [Chris Bolton](http://codeandconfusion.com/) |
 
-Suggestions/improvements
-[welcome](https://github.com/mathiasbynens/dotfiles/issues)!
-
-## Author
 
 | [![twitter/mathias](http://gravatar.com/avatar/24e08a9ea84deb17ae121074d0f17125?s=70)](http://twitter.com/mathias "Follow @mathias on Twitter") |
 |---|
