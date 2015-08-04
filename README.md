@@ -1,4 +1,4 @@
-# Mathias’s dotfiles
+# Chris’s dotfiles ([Forked from the wonderful Mathias](https://github.com/mathiasbynens/dotfiles.git))
 
 ![Screenshot of my shell prompt](http://i.imgur.com/EkEtphC.png)
 
